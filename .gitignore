@@ -1,0 +1,18 @@
+# Dependencies are installed locally from package-lock.json.
+node_modules/
+
+# Local environment and operating-system files.
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Editor settings and generated output.
+.idea/
+.vscode/
+coverage/
+.nyc_output/
+*.log
+*.zip
+*.pdf
+*.docx
